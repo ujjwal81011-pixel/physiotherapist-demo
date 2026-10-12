@@ -1,0 +1,9 @@
+# Logs and temporary files
+*.log
+.system_generated/
+scratch/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db

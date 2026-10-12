@@ -1,0 +1,8 @@
+# robots.txt for [CLINIC NAME]
+# Directs all web crawlers to index public pages and points to the XML sitemap
+
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://[YOUR-DOMAIN]/sitemap.xml
